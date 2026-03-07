@@ -1,6 +1,6 @@
 cask "relux" do
-  version "1.9.0"
-  sha256 "e4337c497e5e02f8cdbfeb3396333730209c5faeacec24a9afd195ec35968488"
+  version "1.9.1"
+  sha256 "611160a5b6508f1eabdce7d5a304ade8c0a7da430cc67ba1321ba99a593d0753"
 
   url "https://github.com/tectiv3/relux/releases/download/v#{version}/Relux-#{version}.dmg"
   name "Relux"
