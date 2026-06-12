@@ -7,7 +7,7 @@ cask "relux" do
   desc "macOS menu-bar utility for app launching, clipboard history, and translation"
   homepage "https://github.com/tectiv3/relux"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: ":sonoma"
 
   app "Relux.app"
 
